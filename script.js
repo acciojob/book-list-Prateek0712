@@ -1,5 +1,6 @@
 //your JS code here. If required.
-
+//partially able to solve
+//not passing all text cases
 let  js_form=document.querySelector("form");
 js_form.addEventListener("submit",formSubmitted);
 
